@@ -1,3 +1,5 @@
+
+
 const opc = {
     "GET": () => getDataAll(),
     "PUT": (data,id) => putData(data,id),

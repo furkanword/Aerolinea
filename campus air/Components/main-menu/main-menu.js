@@ -22,7 +22,7 @@ export class MainMenu extends HTMLElement{
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" href="customers.html">
-                            <i class='bx bx-child'></i> <span class="ms-1 d-none d-sm-inline">Clientes</span>
+                            <span class="ms-1 d-none d-sm-inline">Clientes</span>
                             </a>
 
                         </li>
@@ -34,13 +34,13 @@ export class MainMenu extends HTMLElement{
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="rutas.html">
-                            <i class='bx bx-search-alt' ></i> <span class="ms-1 d-none d-sm-inline">Rutas</span>
+                            <span class="ms-1 d-none d-sm-inline">Rutas</span>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="personal.html
                             ">
-                            <span class="ms-1 d-none d-sm-inline">Personal</span>
+                            <i class='bx bx-search-alt' ></i> <span class="ms-1 d-none d-sm-inline">Personal</span>
                             </a>
                         </li>
                     </ul>

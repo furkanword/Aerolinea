@@ -13,7 +13,7 @@ export class CustomersForm extends HTMLElement {
                 <div class="container">
                     <div class= "row g-3">
                         <div class= "col-12" >
-                            <form class="frmData" id="frmData">
+                            <form id="frmData">
                                 <div class ="row g-3">  
                                     <div class="col-3">
                                         <label for="city" class="form-label">Ciudad</label>

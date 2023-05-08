@@ -1,1 +1,0 @@
-# farmacy-app Kevin Elias Arce Garza

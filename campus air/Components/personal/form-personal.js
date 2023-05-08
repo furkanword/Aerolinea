@@ -47,7 +47,7 @@ export class FormPersonal extends HTMLElement{
                                         </select>
                                     </div>
                                     <div class="container mt-4 text-center" >
-                                        <input type="submit" data-accion="POST" class="btn btn-primary" value="Guardar Clientes">
+                                        <input type="submit" data-accion="POST" class="btn btn-primary" value="Guardar personal ">
                                     </div>
                                 </div>
                             </form>                         

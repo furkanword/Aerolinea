@@ -1,9 +1,9 @@
 {
-    "customer": [
-        {
-            "name": "onymous"   
-        }
-    ],
-    "rutas": [],
-    "personal": []
+  "customer": [
+    {
+      "name": "onymous"
+    }
+  ],
+  "rutas": [],
+  "personal": []
 }
