@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(205, 248, 248);
+}
+i{
+     font-size: 1.16rem;
+}
+.home-us {
+    display: flex;
+    flex-direction: column;
+    padding-left: 300px;
+    
+
+}
+.home-img {
+    padding-left: 800px ;
+}
+
