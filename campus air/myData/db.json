@@ -1,9 +1,5 @@
 {
-  "customer": [
-    {
-      "name": "onymous"
-    }
-  ],
+  "customer": [],
   "rutas": [],
   "personal": []
-}
+}       
